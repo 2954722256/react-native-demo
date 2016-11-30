@@ -1,0 +1,14 @@
+
+*.d
+
+*.o
+
+*.hmap
+
+*.timestamp
+
+/ABegin/dodoAios/build/
+/ABegin/dodoAios/build/*
+
+/ABegin/ios/build/
+/ABegin/ios/build/*
